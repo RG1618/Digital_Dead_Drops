@@ -2,5 +2,6 @@
 ## Description
 * Explored steganography history and modern use.
 * Investigated AI steganographic advancements.
-## Tools/Technologies: 
+  
+## Tools/Technologies
 * WavSteg, StegSnow, Sonic Visualizer
